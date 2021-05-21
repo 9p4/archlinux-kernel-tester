@@ -1,0 +1,13 @@
+# SPDX-License-Identifier: GPL-3.0-or-later
+base
+linux
+linux-hardened
+linux-zen
+linux-rt
+mkinitcpio
+mkinitcpio-archiso
+syslinux
+p7zip
+htop
+screen
+lm_sensors
